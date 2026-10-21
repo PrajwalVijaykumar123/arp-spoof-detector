@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.json
+*.jsonl
+!test_fixtures/sample_capture.jsonl

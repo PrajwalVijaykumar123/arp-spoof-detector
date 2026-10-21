@@ -1,0 +1,12 @@
+{"ts": 0.0, "op": "request", "src_ip": "192.168.1.1", "src_mac": "aa:aa:aa:aa:aa:01"}
+{"ts": 0.1, "op": "reply", "src_ip": "192.168.1.1", "src_mac": "aa:aa:aa:aa:aa:01"}
+{"ts": 1.0, "op": "request", "src_ip": "192.168.1.50", "src_mac": "bb:bb:bb:bb:bb:50"}
+{"ts": 1.1, "op": "reply", "src_ip": "192.168.1.50", "src_mac": "bb:bb:bb:bb:bb:50"}
+{"ts": 5.0, "op": "request", "src_ip": "192.168.1.1", "src_mac": "aa:aa:aa:aa:aa:01"}
+{"ts": 5.1, "op": "reply", "src_ip": "192.168.1.1", "src_mac": "aa:aa:aa:aa:aa:01"}
+{"ts": 10.0, "op": "reply", "src_ip": "192.168.1.1", "src_mac": "ff:ff:ff:ff:ff:99"}
+{"ts": 11.0, "op": "request", "src_ip": "192.168.1.50", "src_mac": "bb:bb:bb:bb:bb:50"}
+{"ts": 11.1, "op": "reply", "src_ip": "192.168.1.50", "src_mac": "bb:bb:bb:bb:bb:50"}
+{"ts": 12.0, "op": "reply", "src_ip": "192.168.1.1", "src_mac": "ff:ff:ff:ff:ff:99"}
+{"ts": 14.0, "op": "reply", "src_ip": "192.168.1.1", "src_mac": "ff:ff:ff:ff:ff:99"}
+{"ts": 16.0, "op": "reply", "src_ip": "192.168.1.1", "src_mac": "ff:ff:ff:ff:ff:99"}
